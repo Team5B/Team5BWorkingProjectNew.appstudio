@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblStudyBuddy",
+  "id": "lblSBTable",
   "labelStyle": "text",
-  "left": 52,
+  "left": 54,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 47,
-  "value": "Find your Study Buddy! Enter their name and find their table!",
-  "width": "auto"
+  "top": 311,
+  "value": "",
+  "width": 225
 }
