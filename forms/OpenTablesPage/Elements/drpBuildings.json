@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "drpBuildings",
   "items": "!Heading\nItem 1\nItem 2\n-\n*Item 3 (disabled)",
-  "left": 93,
+  "left": 97,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 148,
+  "top": 99,
   "value": "Building",
   "width": "auto"
 }

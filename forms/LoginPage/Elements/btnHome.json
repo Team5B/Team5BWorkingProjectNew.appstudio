@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnHome",
-  "left": 118,
+  "left": 133,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 335,
+  "top": 390,
   "value": "Home",
   "width": "auto"
 }

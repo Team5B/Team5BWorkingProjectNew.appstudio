@@ -1,6 +1,7 @@
 
 let allBuildings = []
 let allTables = []
+let closedTables = []
 
 
 OpenTablesPage.onshow=function(){
@@ -64,8 +65,6 @@ drpBuildings.onclick=function(c){
       
       }
     
-
-
-
 }
 }
+

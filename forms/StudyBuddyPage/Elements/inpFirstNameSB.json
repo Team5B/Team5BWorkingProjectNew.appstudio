@@ -23,7 +23,7 @@
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
-  "header": "Enter First Name of Study Buddy:",
+  "header": "Input",
   "headerCols": 2,
   "height": "auto",
   "hidden": "",
@@ -32,7 +32,7 @@
   "id": "inpFirstNameSB",
   "inputType": "text",
   "inputmode": "",
-  "left": 27,
+  "left": 15,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -81,9 +81,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 97,
+  "top": 68,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 279
+  "width": "auto"
 }

@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblStudyBuddy",
   "labelStyle": "text",
-  "left": 52,
+  "left": 21,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 47,
-  "value": "Find your Study Buddy! Enter their name and find their table!",
+  "top": 15,
+  "value": "Study Buddy page",
   "width": "auto"
 }

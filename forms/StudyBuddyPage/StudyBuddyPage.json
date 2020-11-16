@@ -52,15 +52,6 @@
         "forms",
         "StudyBuddyPage",
         "Elements",
-        "lblSBTable.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
         "btnFindSB.json"
       ]
     }

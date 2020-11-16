@@ -25,7 +25,7 @@
         "forms",
         "LoginPage",
         "Elements",
-        "lblLogIn.json"
+        "inpNetID.json"
       ]
     },
     {
@@ -34,7 +34,16 @@
         "forms",
         "LoginPage",
         "Elements",
-        "inpUserName.json"
+        "inpFirst.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LoginPage",
+        "Elements",
+        "inpLast.json"
       ]
     }
   ],
