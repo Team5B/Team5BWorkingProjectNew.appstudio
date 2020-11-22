@@ -16,16 +16,7 @@
         "forms",
         "CalendarPage",
         "Elements",
-        "btnNext8.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CalendarPage",
-        "Elements",
-        "lblCalendar.json"
+        "divCalFull.json"
       ]
     }
   ],

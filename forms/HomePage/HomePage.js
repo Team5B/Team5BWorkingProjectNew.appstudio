@@ -1,5 +1,3 @@
-
-
 btnCheckIn.onclick=function(){
   ChangeForm(CheckInPage)
 }
@@ -7,8 +5,6 @@ btnCheckIn.onclick=function(){
 btnCheckOut.onclick=function(){
   ChangeForm(CheckOutPage)
 }
-
-
 
 hmbMenu.onclick=function(s){
  if (typeof(s) == "object") { // do nothing - they just clicked on the control
@@ -21,8 +17,8 @@ hmbMenu.onclick=function(s){
             case "Calendar":
                 ChangeForm(CalendarPage)
                 break
-            case "Study Buddy":
-                ChangeForm(StudyBuddyPage)
+            case "Study Break":
+                ChangeForm(StudyBreakPage)
                 break
             case "Nearby Coffee Shops":
                 ChangeForm(NearbyCoffeePage)

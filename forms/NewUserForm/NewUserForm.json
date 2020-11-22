@@ -16,52 +16,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "first_name.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NewUserForm",
-        "Elements",
-        "last_name.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NewUserForm",
-        "Elements",
-        "net_id.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NewUserForm",
-        "Elements",
-        "btnCreateUser.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NewUserForm",
-        "Elements",
-        "lblAdded.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NewUserForm",
-        "Elements",
-        "btnGoHome.json"
+        "divNewFull.json"
       ]
     }
   ],

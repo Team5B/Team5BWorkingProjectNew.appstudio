@@ -16,25 +16,7 @@
         "forms",
         "OpenTablesPage",
         "Elements",
-        "drpBuildings.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "OpenTablesPage",
-        "Elements",
-        "lblFindOpenTables.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "OpenTablesPage",
-        "Elements",
-        "drpTables.json"
+        "divTblFull.json"
       ]
     }
   ],

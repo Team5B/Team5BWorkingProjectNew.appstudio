@@ -32,12 +32,12 @@
   "id": "first_name",
   "inputType": "text",
   "inputmode": "",
-  "left": 16,
+  "left": "auto",
   "leftText": "",
   "mAll": "",
   "mBottom": "",
-  "mLeft": "",
-  "mRight": "",
+  "mLeft": "25%",
+  "mRight": "25%",
   "mTop": "",
   "max": "",
   "maxlength": "",
@@ -81,9 +81,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 24,
+  "top": "auto",
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": "50%"
 }

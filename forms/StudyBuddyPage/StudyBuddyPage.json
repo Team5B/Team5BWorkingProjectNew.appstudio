@@ -16,52 +16,7 @@
         "forms",
         "StudyBuddyPage",
         "Elements",
-        "btnNext7.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
-        "lblStudyBuddy.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
-        "inpFirstNameSB.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
-        "inpLastNameSB.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
-        "lblSBTable.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "StudyBuddyPage",
-        "Elements",
-        "btnFindSB.json"
+        "divBudFull.json"
       ]
     }
   ],
