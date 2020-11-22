@@ -16,34 +16,7 @@
         "forms",
         "CheckInPage",
         "Elements",
-        "lblCheckIn.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckInPage",
-        "Elements",
-        "inpTableNumIn.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckInPage",
-        "Elements",
-        "btnCheckInTable.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckInPage",
-        "Elements",
-        "lblCheckInMsg.json"
+        "divInFull.json"
       ]
     }
   ],

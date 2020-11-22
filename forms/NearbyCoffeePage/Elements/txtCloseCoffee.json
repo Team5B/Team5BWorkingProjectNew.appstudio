@@ -29,7 +29,7 @@
   "iconTitle": "",
   "id": "txtCloseCoffee",
   "inputmode": "",
-  "left": 8,
+  "left": "auto",
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -66,16 +66,16 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "readonly": "",
+  "readonly": "readonly",
   "required": "",
   "right": "auto",
   "rows": "15",
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 59,
+  "top": "auto",
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 298
+  "width": "100%"
 }

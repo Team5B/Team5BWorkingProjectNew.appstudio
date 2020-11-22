@@ -32,12 +32,12 @@
   "id": "inpTableNumOut",
   "inputType": "text",
   "inputmode": "",
-  "left": 23,
+  "left": "auto",
   "leftText": "",
   "mAll": "",
   "mBottom": "",
-  "mLeft": "",
-  "mRight": "",
+  "mLeft": "15%",
+  "mRight": "15%",
   "mTop": "",
   "max": "",
   "maxlength": "",
@@ -81,9 +81,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 117,
+  "top": "auto",
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": "70%"
 }

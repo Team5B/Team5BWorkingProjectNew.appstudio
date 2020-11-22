@@ -16,25 +16,7 @@
         "forms",
         "LoginPage",
         "Elements",
-        "btnHome.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "lblLogIn.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "inpUserName.json"
+        "divLogFull.json"
       ]
     }
   ],

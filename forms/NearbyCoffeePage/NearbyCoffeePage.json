@@ -16,16 +16,7 @@
         "forms",
         "NearbyCoffeePage",
         "Elements",
-        "txtCloseCoffee.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "NearbyCoffeePage",
-        "Elements",
-        "lblNearbyCoffee.json"
+        "divCofFull.json"
       ]
     }
   ],

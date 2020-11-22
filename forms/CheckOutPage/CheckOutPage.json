@@ -16,43 +16,7 @@
         "forms",
         "CheckOutPage",
         "Elements",
-        "btnNext4.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckOutPage",
-        "Elements",
-        "lblCheckOut.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckOutPage",
-        "Elements",
-        "inpTableNumOut.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckOutPage",
-        "Elements",
-        "btnCheckOutTable.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "CheckOutPage",
-        "Elements",
-        "lblCheckOutMsg.json"
+        "divOutFull.json"
       ]
     }
   ],

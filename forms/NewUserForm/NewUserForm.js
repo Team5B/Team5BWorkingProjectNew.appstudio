@@ -9,13 +9,14 @@ btnCreateUser.onclick=function(){
   query = "INSERT INTO user (net_id, first_name, last_name) VALUES ('" + username1 + "', '" + first_name1 + "', '" + last_name1 + "')"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=cjg05531&pass=" + pw + "&database=cjg05531&query=" + query)
 
-  lblAdded.value = `You have sucessfully been added, please log in!`
+  
  
   if (req.status == 200) { //transit worked.
     results = JSON.parse(req.responseText)
-
+    lblAdded.value = `You have sucessfully been added, please log in!`
   } else {
     // transit error
+    lblAdded.value = `There was an error adding you to the database`
     console.log(`Error: ${req.status}`);
   }
   }
@@ -31,5 +32,5 @@ btnCreateUser.onclick=function(){
 
 
 btnGoHome.onclick=function(){
-  ChangeForm(HomePage)
+  ChangeForm(LoginPage)
 }
